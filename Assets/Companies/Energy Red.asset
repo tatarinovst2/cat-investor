@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 088240c62a2c54793a0cc2ec46f78059, type: 3}
+  m_Name: Energy Red
+  m_EditorClassIdentifier: 
+  _companyName: Energy Red
+  _news:
+  - {fileID: 11400000, guid: 47bba9d1ea8b4415e861255c25a30390, type: 2}
+  - {fileID: 11400000, guid: 5237335fb121c4752851e26dc01e08ec, type: 2}
+  - {fileID: 11400000, guid: 456c21ccb3c0a4b22953e94847176d89, type: 2}

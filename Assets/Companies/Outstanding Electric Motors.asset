@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 088240c62a2c54793a0cc2ec46f78059, type: 3}
+  m_Name: Outstanding Electric Motors
+  m_EditorClassIdentifier: 
+  _companyName: Outstanding Electric Motors
+  _news:
+  - {fileID: 11400000, guid: 7d991ec8ee91943c49069c8c0154be9f, type: 2}
+  - {fileID: 11400000, guid: 7402a252d13414a37b5fd6881965a91d, type: 2}
+  - {fileID: 11400000, guid: 9e275ec306df84f21abf409a2ae9786d, type: 2}
+  - {fileID: 11400000, guid: 168db53c7acd74616a91bfd02158b17d, type: 2}
+  - {fileID: 11400000, guid: 9af5fc9dae8024b8cbe07f9a45fc06f8, type: 2}

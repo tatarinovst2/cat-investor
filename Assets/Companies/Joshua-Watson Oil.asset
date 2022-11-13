@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 088240c62a2c54793a0cc2ec46f78059, type: 3}
+  m_Name: Joshua-Watson Oil
+  m_EditorClassIdentifier: 
+  _companyName: Joshua-Watson Oil
+  _news:
+  - {fileID: 11400000, guid: 0435b59e6c2624ce0af800c8e270c86e, type: 2}
+  - {fileID: 11400000, guid: 08d7ea8f1e28c43f3b71aeaadfd964c2, type: 2}
+  - {fileID: 11400000, guid: a5e93156edabd47709ac75b46af5f991, type: 2}
+  - {fileID: 11400000, guid: c039d5ceeda294f88a43a89932bbf3d9, type: 2}
+  - {fileID: 11400000, guid: e3f529225d4ea42238c1a6a02e95807f, type: 2}

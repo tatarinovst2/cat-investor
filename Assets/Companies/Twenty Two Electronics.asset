@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 088240c62a2c54793a0cc2ec46f78059, type: 3}
+  m_Name: Twenty Two Electronics
+  m_EditorClassIdentifier: 
+  _companyName: Twenty Two Electronics
+  _news:
+  - {fileID: 11400000, guid: 40cf0c8d50f704124ae84591dd4f1686, type: 2}
+  - {fileID: 11400000, guid: 484e7265565cc4011a62a3b4aa83be6c, type: 2}
+  - {fileID: 11400000, guid: 9c1e4f11dda1c41a6abdb60d8fb6a5a7, type: 2}
+  - {fileID: 11400000, guid: e2dc420ecab814db59c1abc8508ae38f, type: 2}
+  - {fileID: 11400000, guid: 5ec7b757a72e04f37a7f56acffe75781, type: 2}
+  - {fileID: 11400000, guid: 99c18302d64154a97a4086ab1903f9e8, type: 2}
